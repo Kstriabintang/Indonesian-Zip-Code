@@ -7,7 +7,7 @@
 
 **CariKodePos.id** adalah aplikasi pencarian kode pos Indonesia tingkat profesional yang menggabungkan presisi data dengan pengalaman visual 3D yang imersif. Dirancang dengan estetika modern dan performa tinggi untuk membantu pengguna menemukan kode pos di seluruh pelosok Indonesia dalam hitungan detik.
 
-![Preview Dashboard](https://via.placeholder.com/1200x600/020617/38bdf8?text=CariKodePos.id+Premium+Dashboard)
+![CariKodePos.id — a satellite map of Indonesia with address search and GPS detection](docs/preview.png)
 
 ## ✨ Fitur Unggulan
 
