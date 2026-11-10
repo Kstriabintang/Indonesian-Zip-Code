@@ -4,10 +4,13 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite)](https://vite.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live](https://img.shields.io/badge/Live-carikodepos.ksatriabintangsamudra.com-2DD4BF)](https://carikodepos.ksatriabintangsamudra.com)
 
 **CariKodePos.id** adalah aplikasi pencarian kode pos Indonesia tingkat profesional yang menggabungkan presisi data dengan pengalaman visual 3D yang imersif. Dirancang dengan estetika modern dan performa tinggi untuk membantu pengguna menemukan kode pos di seluruh pelosok Indonesia dalam hitungan detik.
 
 ![CariKodePos.id — a satellite map of Indonesia with address search and GPS detection](docs/preview.png)
+
+**🔗 Live — [carikodepos.ksatriabintangsamudra.com](https://carikodepos.ksatriabintangsamudra.com)**
 
 ## ✨ Fitur Unggulan
 
